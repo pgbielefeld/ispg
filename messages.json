@@ -1,14 +1,6 @@
 [
     {
-        "title": "Wartungsarbeiten",
-        "body": "Am 10. Juli 2024 finden von 22:00 bis 24:00 Uhr Wartungsarbeiten statt. Bitte speichern Sie Ihre Arbeit."
-    },
-    {
-        "title": "Neues Feature",
-        "body": "Wir freuen uns, ein neues Feature in unserer Anwendung vorzustellen, das die Benutzerfreundlichkeit verbessert."
-    },
-    {
-        "title": "Sicherheitsupdate",
-        "body": "Ein wichtiges Sicherheitsupdate wurde installiert. Bitte starten Sie Ihr System neu, um die Änderungen zu übernehmen."
+        "title": "Umbau Begegnungsraum",
+        "body": "Aufgrund des Wasserschadens im begegnungsraumes, ist dieser aktuell gesperrt.
+        Veranstaltungen werden verlegt oder fallen aus! - Infobildschirm beachten!"
     }
-]
